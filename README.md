@@ -1,4 +1,4 @@
-<h1 align="center">Olá! Me chamo Polyana Feitoza e sou desenvolvedora web jr! 👋</h1>
+<h1 align="center">Olá 👋 Me chamo Polyana Feitoza e sou desenvolvedora web jr</h1>
 
 <div align="center">
   
