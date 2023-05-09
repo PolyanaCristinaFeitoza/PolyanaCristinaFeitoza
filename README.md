@@ -1,4 +1,4 @@
-### Oiee! Me chamo Polyana Feitoza e sou desenvolvedora web jr! 👋
+### Olá! Me chamo Polyana Feitoza e sou desenvolvedora web jr! 👋
 
 <div align="center">
   
