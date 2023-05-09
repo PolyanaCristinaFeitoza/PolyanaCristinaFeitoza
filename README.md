@@ -18,7 +18,8 @@
   
   <h1 align="center">Redes Sociais</h1>
      <a href = "https://www.linkedin.com/in/polyftza/">
-      <img width="25" src="linkedin.svg">
+      <img width="25" src="![linkedin (3)](https://github.com/PolyanaCristinaFeitoza/PolyanaCristinaFeitoza/assets/85651773/7b508add-5f78-40aa-b815-c78d000ef5f0)
+">
     </a>
     <a href = "https://www.linkedin.com/in/polyftza/">
       <img width="25" src="linkedin.svg">
