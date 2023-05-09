@@ -16,17 +16,4 @@
     <img align="center" height="30" width="40" alt="css-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
     <img align="center" height="30" width="40" alt="nodejs-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
   
-  <h1 align="center">Redes Sociais</h1>
-     <a href = "https://www.linkedin.com/in/polyftza/">
-      <img width="25" src="![linkedin (3)](https://github.com/PolyanaCristinaFeitoza/PolyanaCristinaFeitoza/assets/85651773/7b508add-5f78-40aa-b815-c78d000ef5f0)
-">
-    </a>
-    <a href = "https://www.linkedin.com/in/polyftza/">
-      <img width="25" src="linkedin.svg">
-    </a>
-    <a href = "https://www.instagram.com/polyftza/">
-      <img width="25" src="instagram.png">
-    </a>
-</div>
-  
 ![Snake animation](https://github.com/LuigiGF/LuigiGF/blob/output/github-contribution-grid-snake.svg)
