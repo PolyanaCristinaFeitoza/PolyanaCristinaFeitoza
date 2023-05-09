@@ -17,6 +17,9 @@
     <img align="center" height="30" width="40" alt="nodejs-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
   
   <h1 align="center">Redes Sociais</h1>
+     <a href = "https://www.linkedin.com/in/polyftza/">
+      <img width="25" src="linkedin.svg">
+    </a>
     <a href = "https://www.linkedin.com/in/polyftza/">
       <img width="25" src="linkedin.svg">
     </a>
