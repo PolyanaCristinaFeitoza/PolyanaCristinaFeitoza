@@ -14,6 +14,7 @@
     <img align="center" height="30" width="40" alt="css-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
     <img align="center" height="30" width="40" alt="nodejs-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
   <h1 align="center">Redes sociais:</h1>
+     <a class='link' href="https://github.com/PolyanaCristinaFeitoza" target='_blank'> <img src='/image/icon-git.svg' alt='icone do gitHub' class='img-git'></a> 
        * [Linkedln](https://www.linkedin.com/in/polyftza/)
        * [Instagram](https://www.instagram.com/polyftza/)
 
