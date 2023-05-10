@@ -1,4 +1,4 @@
-<h1 align="center">Olá 👋 Me chamo Polyana Feitoza e sou Desenvolvedora Web</h1>
+<h2 align="center">Olá 👋 Me chamo Polyana Feitoza e sou Desenvolvedora Web</h2>
 
 <div align="center">
   
@@ -13,3 +13,6 @@
     <img align="center" height="30" width="40" alt="html-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
     <img align="center" height="30" width="40" alt="css-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
     <img align="center" height="30" width="40" alt="nodejs-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
+    
+            <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
+          
