@@ -2,6 +2,9 @@
 
 <div align="center">
   
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/adonisjs/adonisjs-original.svg" />
+          
+  
   <img src="https://github-readme-stats.vercel.app/api?username=PolyanaCristinaFeitoza&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true"/>
 </div>
 <br>
