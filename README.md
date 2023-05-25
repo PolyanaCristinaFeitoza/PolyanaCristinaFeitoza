@@ -1,12 +1,12 @@
 
-          ### Olá, eu sou a Bruna! É um prazer receber você aqui! :v:
-
-Formada em Serviço Social, com pós-graduação em Fotografia, sou apaixonada por cultura, arte e tecnologia, e estou em uma jornada pelo mundo da programação.
+ ### Olá, eu sou a Polyana! Seja bem-vindo! :v:
+ 
+Apaixonada por tecnologia e curiosa por natureza, gosto de aprender coisas novas e de solucionar problemas. Atualmente me aventurando pelo mundo da programação 🗺️. 
 
 ##
 
 <div> 
- <img align="right" alt="octocat" height="400" width="400" src="https://user-images.githubusercontent.com/122236335/222917881-7acdb240-4851-4694-a398-cc39c7672a13.png">
+ <img align="right" alt="octocat" height="400" width="400" src="https://file:///home/polyana/Transfer%C3%AAncias/octocat-1685019636582.png">
 </div>
  
 
