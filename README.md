@@ -3,8 +3,13 @@
  
 Apaixonada por tecnologia e curiosa por natureza, gosto de aprender coisas novas e de solucionar problemas. Atualmente me aventurando pelo mundo da programação. 🌎 
 
-![image](https://github.com/PolyanaCristinaFeitoza/PolyanaCristinaFeitoza/assets/85651773/d9f74849-9ecc-4c3a-a891-6a47d51c8d40)
+##
 
+<div> 
+ <img align="right" alt="octocat" height="400" width="400" src="https://github.com/PolyanaCristinaFeitoza/PolyanaCristinaFeitoza/assets/85651773/d9f74849-9ecc-4c3a-a891-6a47d51c8d40">
+</div>
+ 
+ 
 * :computer: Estudante de Desenvolvimento Web
 * :yellow_heart: Aluna da nona geração da [Laboratória](https://www.laboratoria.la/br)
 
