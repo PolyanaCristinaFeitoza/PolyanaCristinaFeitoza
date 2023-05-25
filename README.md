@@ -6,7 +6,7 @@ Apaixonada por tecnologia e curiosa por natureza, gosto de aprender coisas novas
 ##
 
 <div> 
- <img align="right" alt="octocat" height="400" width="400" src="file:///home/polyana/Transfer%C3%AAncias/octocat-1685019636582.png">
+ <img align="right" alt="octocat" height="400" width="400" src=""https://user-images.githubusercontent.com/octocat-1685019636582.png">
 </div>
 
 * :computer: Estudante de Desenvolvimento Web
