@@ -1,19 +1,43 @@
-<h2 align="center">Olá 👋 Me chamo Polyana Feitoza e sou Desenvolvedora Web</h2>
 
-<div align="center">         
-  
-  <img src="https://github-readme-stats.vercel.app/api?username=PolyanaCristinaFeitoza&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true"/>
+          ### Olá, eu sou a Bruna! É um prazer receber você aqui! :v:
+
+Formada em Serviço Social, com pós-graduação em Fotografia, sou apaixonada por cultura, arte e tecnologia, e estou em uma jornada pelo mundo da programação.
+
+##
+
+<div> 
+ <img align="right" alt="octocat" height="400" width="400" src="https://user-images.githubusercontent.com/122236335/222917881-7acdb240-4851-4694-a398-cc39c7672a13.png">
 </div>
-<br>
-<div  align="center"> 
-  <div style="display: inline_block"><br>
-    <img align="left" height="250" alt="coding-time" src="code.gif">
-    <h2 align="center">Tecnologias:</h2>
-    <img align="center" height="30" width="40" alt="js-icon"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-    <img align="center" height="30" width="40" alt="html-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-    <img align="center" height="30" width="40" alt="css-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-    <img align="center" height="30" width="40" alt="nodejs-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
-            
+ 
+
+* :computer: Estudante de desenvolvimento web - Front-End 
+* :yellow_heart: Aluna da nona geração da [Laboratória](https://www.laboratoria.la/br)
+
+##
+
+Atualmente estou participando do Bootcamp da Laboratória, que tem duração de 6 meses com foco em empregabilidade na área de programação e é voltado 100% para mulheres. O treinamento é intensivo, com o objetivo de formar uma desenvolvedora front-end júnior que saiba trabalhar em ambientes de incertezas e constante mudança. 
+
+Nele trabalhamos com JavaScript, HTML, CSS, UX/UI, Node.js, React, entre outras tecnologias, a partir de projetos realizados através de um método de autoaprendizagem e metodologias ágeis. 
+
+No bootcamp são desenvolvidas não só as habilidades técnicas, como também as habilidades socioemocionais e profissionais, como autoaprendizagem, comunicação, trabalho em equipe, resiliência, entre outras.
+
+##
+
+Tecnologias e ferramentas que utilizo:
+
+<div style="display: inline_block"><br>
+  <img align="center" alt="bruna-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="bruna-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="bruna-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="bruna-vscode" height="35" width="35" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_vscode_icon_130084.png"
+  <img align="center" alt="bruna-Github" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
+  <img align="center" alt="bruna-Figma" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg">
+  <img align="center" alt="bruna-Trello" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/trello/trello-plain.svg">
+  <img align="center" alt="Bruna-Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
+  <img align="center" alt="bruna-Canva" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg">
           
-         
-          
+ </div>
+ 
+ ##
+ 
+ 
