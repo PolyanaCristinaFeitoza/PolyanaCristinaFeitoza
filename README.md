@@ -5,9 +5,7 @@ Apaixonada por tecnologia e curiosa por natureza, gosto de aprender coisas novas
 
 ##
 
-<div> 
- <img align="right" alt="octocat" height="400" width="400" src=""https://user-images.githubusercontent.com/octocat-1685019636582.png">
-</div>
+![Descrição da imagem](recent:///48961e73b0865247a08ef590646f64c8)
 
 * :computer: Estudante de Desenvolvimento Web
 * :yellow_heart: Aluna da nona geração da [Laboratória](https://www.laboratoria.la/br)
