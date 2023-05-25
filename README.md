@@ -1,12 +1,12 @@
 
- ### Olá, eu sou a Polyana! Seja bem-vindo! :v:
+ ### Olá, eu sou a Polyana! Seja bem-vindo(a)! 👋
  
-Apaixonada por tecnologia e curiosa por natureza, gosto de aprender coisas novas e de solucionar problemas. Atualmente me aventurando pelo mundo da programação 🗺️. 
+Apaixonada por tecnologia e curiosa por natureza, gosto de aprender coisas novas e de solucionar problemas. Atualmente me aventurando pelo mundo da programação 🌎. 
 
 ##
 
 <div> 
- <img align="right" alt="octocat" height="400" width="400" src="https://file:///home/polyana/Transfer%C3%AAncias/octocat-1685019636582.png">
+ <img align="right" alt="octocat" height="400" width="400" src="https:/file:///home/polyana/Transfer%C3%AAncias/octocat-1685019636582.png">
 </div>
  
 
