@@ -10,12 +10,12 @@ Apaixonada por tecnologia e curiosa por natureza, gosto de aprender coisas novas
 </div>
  
  
-* :computer: Estudante de Desenvolvimento Web
+* :computer: Desenvolvedora Web Jr
 * :yellow_heart: Aluna da nona geração da [Laboratória](https://www.laboratoria.la/br)
 
 ##
 
-Atualmente estou participando do Bootcamp da Laboratória, que tem duração de 6 meses com foco em empregabilidade na área de programação e é voltado 100% para mulheres. O treinamento é intensivo, com o objetivo de formar uma desenvolvedora front-end júnior que saiba trabalhar em ambientes de incertezas e constante mudança. 
+Concluí recentemente minha formação na Laboratória, uma organização que impulsiona mulheres no desenvolvimento de habilidades para trabalhar e crescer na era digital. O bootcamp teve duração de 6 meses com foco em empregabilidade na área de programação. O treinamento é intensivo, voltado para a formação de desenvolvedora web júnior que saiba trabalhar em ambientes de incertezas e constante mudança.
 
 Nele trabalhamos com JavaScript, HTML, CSS, UX/UI, Node.js, React, entre outras tecnologias, a partir de projetos realizados através de um método de autoaprendizagem e metodologias ágeis. 
 
@@ -29,6 +29,8 @@ Tecnologias e ferramentas que utilizo:
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
+  <img align="center" alt="MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
   <img align="center" alt="node" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
   <img align="center" alt="React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
   <img align="center" alt="vscode" height="35" width="35" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_vscode_icon_130084.png"
