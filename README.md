@@ -10,7 +10,7 @@ Apaixonada por tecnologia e curiosa por natureza, gosto de aprender coisas novas
 </div>
  
  
-* :computer: Desenvolvedora Web Jr
+* :computer: Software Developer
 * :yellow_heart: Aluna da nona geração da [Laboratória](https://www.laboratoria.la/br)
 
 ##
