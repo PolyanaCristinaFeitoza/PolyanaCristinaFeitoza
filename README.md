@@ -3,8 +3,6 @@
  
 Apaixonada por tecnologia e curiosa por natureza, gosto de aprender coisas novas e de solucionar problemas. Atualmente me aventurando pelo mundo da programação. 🌎 
 
-##
-
 <div> 
  <img align="right" alt="octocat" height="400" width="400" src="https://github.com/PolyanaCristinaFeitoza/PolyanaCristinaFeitoza/assets/85651773/d9f74849-9ecc-4c3a-a891-6a47d51c8d40">
 </div>
@@ -33,7 +31,5 @@ Tecnologias e ferramentas que utilizo:
   <img align="center" alt="Trello" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/trello/trello-plain.svg">
   <img align="center" alt="Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">       
  </div>
- 
- ##
  
  
