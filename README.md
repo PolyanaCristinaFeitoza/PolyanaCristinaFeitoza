@@ -12,16 +12,8 @@ Apaixonada por tecnologia e curiosa por natureza, gosto de aprender coisas novas
  
 * :computer: Software Developer
 * :yellow_heart: Aluna da nona geração da [Laboratória](https://www.laboratoria.la/br)
+* Cursando Análise e Desenvolvimento de Sistemas
 
-##
-
-Concluí recentemente minha formação na Laboratória, uma organização que impulsiona mulheres no desenvolvimento de habilidades para trabalhar e crescer na era digital. O bootcamp teve duração de 6 meses com foco em empregabilidade na área de programação. O treinamento é intensivo, voltado para a formação de desenvolvedora web júnior que saiba trabalhar em ambientes de incertezas e constante mudança.
-
-Nele trabalhamos com JavaScript, HTML, CSS, UX/UI, Node.js, React, entre outras tecnologias, a partir de projetos realizados através de um método de autoaprendizagem e metodologias ágeis. 
-
-No bootcamp são desenvolvidas não só as habilidades técnicas, como também as habilidades socioemocionais e profissionais, como autoaprendizagem, comunicação, trabalho em equipe, resiliência, entre outras.
-
-##
 
 Tecnologias e ferramentas que utilizo:
 
