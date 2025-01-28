@@ -12,8 +12,8 @@ Apaixonada por tecnologia e curiosa por natureza, gosto de aprender coisas novas
 * :yellow_heart: Aluna da nona geração da [Laboratória](https://www.laboratoria.la/br)
 * Cursando Análise e Desenvolvimento de Sistemas
 
-#
-Tecnologias e ferramentas que utilizo:
+##
+##Tecnologias e ferramentas que utilizo:
 <div style="display: inline_block"><br>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="TypeScript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg">
