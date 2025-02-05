@@ -13,7 +13,7 @@ Trabalho com programaçao desde 2023. Desde então, venho me desenvolvendo a cad
  <img align="right" alt="octocat" height="400" width="400" src="https://github.com/PolyanaCristinaFeitoza/PolyanaCristinaFeitoza/assets/85651773/d9f74849-9ecc-4c3a-a891-6a47d51c8d40">
 </div>
  
-### Tecnologias e ferramentas que utilizo:
+### ⚙️ Tecnologias e ferramentas que utilizo:
 <div style="display: inline_block"><br>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="TypeScript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg">
