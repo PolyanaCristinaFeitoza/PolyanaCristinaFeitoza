@@ -1,11 +1,11 @@
 
  ### Olá, eu sou a Polyana! Seja bem-vindo(a)! 👋
  
-Apaixonada por tecnologia e curiosa por natureza, gosto de aprender coisas novas e de solucionar problemas. Atualmente me aventurando pelo mundo da programação. 🌎 
+Trabalho com programaçao desde 2023. Desde então, venho me desenvolvendo a cada dia, evoluindo e contruibuindo no mundo dgital. Apaixonada pelo o que faço, gosto de solucionar problemas e aprender coisas novas. 
 
 * :computer: Software Developer
 * :yellow_heart: Aluna da nona geração da [Laboratória](https://www.laboratoria.la/br)
-* Cursando Análise e Desenvolvimento de Sistemas
+* Cursando Análise e Desenvolvimento de Sistemas 📚
 
 #
 
